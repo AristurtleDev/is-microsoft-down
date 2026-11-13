@@ -1,0 +1,13 @@
+{
+    "name": "is-microsoft-down",
+    "private": true,
+    "license": "MIT",
+    "type": "module",
+    "scripts": {
+        "collect": "node scripts/collect.mjs",
+        "build": "node build.mjs"
+    },
+    "engines": {
+        "node": ">=22"
+    }
+}

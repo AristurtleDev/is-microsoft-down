@@ -1,0 +1,81 @@
+<!doctype html>
+<!--
+Copyright (c) Christopher Whitley. All rights reserved.
+Licensed under the MIT license.
+See LICENSE file in the project root for full license information.
+-->
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <meta name="theme-color" content="#111115" />
+        <title>Is Microsoft down again?</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap"
+            rel="stylesheet"
+        />
+
+        <link rel="stylesheet" href="./styles.css" />
+    </head>
+    <body>
+        <main id="main">
+            <header>
+                <h1>Is Microsoft down again?</h1>
+                <a href="https://status.cloud.microsoft/" target="_blank" rel="noreferrer">Microsoft's version</a>
+            </header>
+            <section id="summary" class="summary" aria-live="polite">
+                <h2 id="headline">Checking...</h2>
+                <p id="summary-text"></p>
+                <div class="check"><span id="checked"></span></div>
+            </section>
+            <section class="history-section" aria-label="Update history">
+                <div class="section-heading">
+                    <h2>History</h2>
+                    <label>
+                        View
+                        <select id="history-range">
+                            <option value="hourly" selected>Hourly</option>
+                            <option value="7">7 days</option>
+                            <option value="30">30 days</option>
+                            <option value="90">90 days</option>
+                        </select>
+                    </label>
+                </div>
+                <div id="history" class="history" aria-label="Archived updates by time period"></div>
+                <div class="history-axis">
+                    <span id="history-start"></span>
+                    <span id="history-end"></span>
+                </div>
+            </section>
+            <section id="services" aria-label="Service status">
+                <p>Loading...</p>
+            </section>
+
+            <section>
+                <div class="section-heading">
+                    <h2>Updates</h2>
+                    <span id="event-count"></span>
+                </div>
+                <div class="selection">
+                    <span id="history-selection">All dates</span>
+                    <button id="clear-day" hidden>Clear date</button>
+                </div>
+                <div id="timeline"><p>Loading...</p></div>
+                <button id="more" hidden>Show more</button>
+            </section>
+            <footer>
+                <p>Public reports, not measured uptime. No update doesn't mean no outage.</p>
+                <p id="archive-note"></p>
+                <p>Unofficial. Not affiliated with Microsoft.</p>
+                <p>
+                    <a href="https://github.com/aristurtledev/is-microsoft-down" target="_blank" rel="noreferrer">
+                        Made by @aristurtledev
+                    </a>
+                </p>
+            </footer>
+        </main>
+        <script type="module" src="./app.js"></script>
+    </body>
+</html>
