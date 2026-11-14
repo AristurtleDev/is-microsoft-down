@@ -1,7 +1,7 @@
 {
   "startedAt": "2026-11-13T17:37:34.949Z",
   "current": {
-    "checkedAt": "2026-11-14T07:21:46.516Z",
+    "checkedAt": "2026-11-14T08:22:24.229Z",
     "sources": [
       {
         "sourceId": "business",
@@ -31,8 +31,8 @@
         "title": "",
         "message": "This site is updated when service issues are preventing tenant administrators from accessing Service health in the Microsoft 365 admin center. Alternatively, customers can reference https://www.twitter.com/MSFT365Status for additional insights into widespread, active incidents.",
         "upstreamId": "c07eb1a6-9b09-40fc-aa33-91b8638fb931",
-        "updatedAt": "2026-11-14T07:21:00.7699923+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.8924824+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -46,7 +46,7 @@
         "message": "User impact: Users may have been unable to access or perform several actions in Microsoft 365 services.\r\n\r\nFinal status: We've confirmed that the services across the previously affected environments have fully recovered and the backlog of email messages has been processed, thus this issue is remediated.\r\n\r\nStart time: Thursday, November 12, 2026, at 10:05 AM UTC\r\n\r\nEnd time: Friday, November 13, 2026, at 4:10 PM UTC\r\n\r\nThis is the final update for the event.",
         "upstreamId": null,
         "updatedAt": "2026-11-14T03:51:29.3+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -59,8 +59,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994304+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525674+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -73,8 +73,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994305+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525676+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -87,8 +87,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994306+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525676+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -101,8 +101,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994306+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525677+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -115,8 +115,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994307+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525678+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -129,8 +129,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994308+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525679+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -143,8 +143,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994308+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525679+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -157,8 +157,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994309+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.352568+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -171,8 +171,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.999431+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525681+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -185,8 +185,8 @@
         "title": "null",
         "message": "No Azure issues detected at this time. For more details, please visit the link below.",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.8537635+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.4813673+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -199,14 +199,14 @@
         "title": "",
         "message": "This site is updated when service issues are preventing tenant administrators from accessing the Power Platform admin center to view Service health status. Alternatively, customers can navigate to the M365 admin center to view the Service health status for the Power Platform services and Dynamics 365 applications.",
         "upstreamId": "9b80edb9-2bb5-47fa-a1d3-8b53dbe65be1",
-        "updatedAt": "2026-11-14T07:21:00.3045692+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.2096164+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       }
     ]
   },
   "latest": {
-    "checkedAt": "2026-11-14T07:21:46.516Z",
+    "checkedAt": "2026-11-14T08:22:24.229Z",
     "sources": [
       {
         "sourceId": "business",
@@ -236,8 +236,8 @@
         "title": "",
         "message": "This site is updated when service issues are preventing tenant administrators from accessing Service health in the Microsoft 365 admin center. Alternatively, customers can reference https://www.twitter.com/MSFT365Status for additional insights into widespread, active incidents.",
         "upstreamId": "c07eb1a6-9b09-40fc-aa33-91b8638fb931",
-        "updatedAt": "2026-11-14T07:21:00.7699923+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.8924824+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -251,7 +251,7 @@
         "message": "User impact: Users may have been unable to access or perform several actions in Microsoft 365 services.\r\n\r\nFinal status: We've confirmed that the services across the previously affected environments have fully recovered and the backlog of email messages has been processed, thus this issue is remediated.\r\n\r\nStart time: Thursday, November 12, 2026, at 10:05 AM UTC\r\n\r\nEnd time: Friday, November 13, 2026, at 4:10 PM UTC\r\n\r\nThis is the final update for the event.",
         "upstreamId": null,
         "updatedAt": "2026-11-14T03:51:29.3+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -264,8 +264,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994304+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525674+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -278,8 +278,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994305+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525676+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -292,8 +292,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994306+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525676+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -306,8 +306,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994306+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525677+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -320,8 +320,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994307+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525678+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -334,8 +334,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994308+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525679+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -348,8 +348,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994308+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525679+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -362,8 +362,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.9994309+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.352568+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -376,8 +376,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.999431+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.3525681+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -390,8 +390,8 @@
         "title": "null",
         "message": "No Azure issues detected at this time. For more details, please visit the link below.",
         "upstreamId": null,
-        "updatedAt": "2026-11-14T07:21:00.8537635+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.4813673+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -404,8 +404,8 @@
         "title": "",
         "message": "This site is updated when service issues are preventing tenant administrators from accessing the Power Platform admin center to view Service health status. Alternatively, customers can navigate to the M365 admin center to view the Service health status for the Power Platform services and Dynamics 365 applications.",
         "upstreamId": "9b80edb9-2bb5-47fa-a1d3-8b53dbe65be1",
-        "updatedAt": "2026-11-14T07:21:00.3045692+00:00",
-        "checkedAt": "2026-11-14T07:21:46.516Z",
+        "updatedAt": "2026-11-14T08:22:00.2096164+00:00",
+        "checkedAt": "2026-11-14T08:22:24.229Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       }
     ]
@@ -1641,6 +1641,76 @@
     },
     {
       "checkedAt": "2026-11-14T07:21:46.516Z",
+      "services": [
+        {
+          "key": "business:mac",
+          "sourceId": "business",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:M365Consumer",
+          "sourceId": "consumer",
+          "state": "disruption"
+        },
+        {
+          "key": "consumer:CopilotConsumer",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:ConsumerList",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:TeamsforLife",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:microsofttodo",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:Whiteboard",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:OfficeOnlineConsumer",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:OneDriveConsumer",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:Outlook.com",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:YourPhone",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "azure:azure",
+          "sourceId": "azure",
+          "state": "clear"
+        },
+        {
+          "key": "power:ppac",
+          "sourceId": "power",
+          "state": "clear"
+        }
+      ]
+    },
+    {
+      "checkedAt": "2026-11-14T08:22:24.229Z",
       "services": [
         {
           "key": "business:mac",
