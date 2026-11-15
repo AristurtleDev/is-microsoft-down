@@ -1,11 +1,11 @@
 {
   "startedAt": "2026-11-13T17:37:34.949Z",
   "current": {
-    "checkedAt": "2026-11-15T02:25:54.435Z",
+    "checkedAt": "2026-11-15T03:24:15.237Z",
     "sources": [
       {
         "sourceId": "business",
-        "ok": false
+        "ok": true
       },
       {
         "sourceId": "consumer",
@@ -21,174 +21,6 @@
       }
     ],
     "services": [
-      {
-        "key": "consumer:M365Consumer",
-        "sourceId": "consumer",
-        "name": "Microsoft 365 (Consumer)",
-        "subtitle": "Outlook, OneDrive & more",
-        "state": "disruption",
-        "reportedStatus": "Service restored",
-        "title": "Users may be unable to access or perform several actions in Microsoft 365 services",
-        "message": "User impact: Users may have been unable to access or perform several actions in Microsoft 365 services.\r\n\r\nFinal status: We've confirmed that the services across the previously affected environments have fully recovered and the backlog of email messages has been processed, thus this issue is remediated.\r\n\r\nStart time: Thursday, November 12, 2026, at 10:05 AM UTC\r\n\r\nEnd time: Friday, November 13, 2026, at 4:10 PM UTC\r\n\r\nThis is the final update for the event.",
-        "upstreamId": null,
-        "updatedAt": "2026-11-14T03:51:29.3+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "consumer:CopilotConsumer",
-        "sourceId": "consumer",
-        "name": "Microsoft Copilot",
-        "subtitle": "Outlook, OneDrive & more",
-        "state": "clear",
-        "reportedStatus": "Operational",
-        "title": "",
-        "message": "",
-        "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401487+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "consumer:ConsumerList",
-        "sourceId": "consumer",
-        "name": "Microsoft Lists",
-        "subtitle": "Outlook, OneDrive & more",
-        "state": "clear",
-        "reportedStatus": "Operational",
-        "title": "",
-        "message": "",
-        "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401488+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "consumer:TeamsforLife",
-        "sourceId": "consumer",
-        "name": "Microsoft Teams Free",
-        "subtitle": "Outlook, OneDrive & more",
-        "state": "clear",
-        "reportedStatus": "Operational",
-        "title": "",
-        "message": "",
-        "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401489+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "consumer:microsofttodo",
-        "sourceId": "consumer",
-        "name": "Microsoft To-Do",
-        "subtitle": "Outlook, OneDrive & more",
-        "state": "clear",
-        "reportedStatus": "Operational",
-        "title": "",
-        "message": "",
-        "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401489+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "consumer:Whiteboard",
-        "sourceId": "consumer",
-        "name": "Microsoft Whiteboard",
-        "subtitle": "Outlook, OneDrive & more",
-        "state": "clear",
-        "reportedStatus": "Operational",
-        "title": "",
-        "message": "",
-        "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.740149+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "consumer:OfficeOnlineConsumer",
-        "sourceId": "consumer",
-        "name": "Office for the web (Consumer)",
-        "subtitle": "Outlook, OneDrive & more",
-        "state": "clear",
-        "reportedStatus": "Operational",
-        "title": "",
-        "message": "",
-        "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401491+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "consumer:OneDriveConsumer",
-        "sourceId": "consumer",
-        "name": "OneDrive",
-        "subtitle": "Outlook, OneDrive & more",
-        "state": "clear",
-        "reportedStatus": "Operational",
-        "title": "",
-        "message": "",
-        "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401491+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "consumer:Outlook.com",
-        "sourceId": "consumer",
-        "name": "Outlook.com",
-        "subtitle": "Outlook, OneDrive & more",
-        "state": "clear",
-        "reportedStatus": "Operational",
-        "title": "",
-        "message": "",
-        "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401492+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "consumer:YourPhone",
-        "sourceId": "consumer",
-        "name": "Phone Link",
-        "subtitle": "Outlook, OneDrive & more",
-        "state": "clear",
-        "reportedStatus": "Operational",
-        "title": "",
-        "message": "",
-        "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401493+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "azure:azure",
-        "sourceId": "azure",
-        "name": "Azure",
-        "subtitle": "Cloud infrastructure",
-        "state": "clear",
-        "reportedStatus": "Available",
-        "title": "null",
-        "message": "No Azure issues detected at this time. For more details, please visit the link below.",
-        "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.8606305+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
-      {
-        "key": "power:ppac",
-        "sourceId": "power",
-        "name": "Power Platform",
-        "subtitle": "Power Apps & Dynamics 365",
-        "state": "clear",
-        "reportedStatus": "Available",
-        "title": "",
-        "message": "This site is updated when service issues are preventing tenant administrators from accessing the Power Platform admin center to view Service health status. Alternatively, customers can navigate to the M365 admin center to view the Service health status for the Power Platform services and Dynamics 365 applications.",
-        "upstreamId": "9b80edb9-2bb5-47fa-a1d3-8b53dbe65be1",
-        "updatedAt": "2026-11-15T02:25:00.4550226+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
-        "sourceUrl": "https://status.cloud.microsoft/"
-      },
       {
         "key": "business:mac",
         "sourceId": "business",
@@ -199,18 +31,186 @@
         "title": "",
         "message": "This site is updated when service issues are preventing tenant administrators from accessing Service health in the Microsoft 365 admin center. Alternatively, customers can reference https://www.twitter.com/MSFT365Status for additional insights into widespread, active incidents.",
         "upstreamId": "c07eb1a6-9b09-40fc-aa33-91b8638fb931",
-        "updatedAt": "2026-11-15T01:21:00.2307611+00:00",
-        "checkedAt": "2026-11-15T01:21:29.760Z",
+        "updatedAt": "2026-11-15T03:24:00.7805591+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "consumer:M365Consumer",
+        "sourceId": "consumer",
+        "name": "Microsoft 365 (Consumer)",
+        "subtitle": "Outlook, OneDrive & more",
+        "state": "disruption",
+        "reportedStatus": "Service restored",
+        "title": "Users may be unable to access or perform several actions in Microsoft 365 services",
+        "message": "User impact: Users may have been unable to access or perform several actions in Microsoft 365 services.\r\n\r\nFinal status: We've confirmed that the services across the previously affected environments have fully recovered and the backlog of email messages has been processed, thus this issue is remediated.\r\n\r\nStart time: Thursday, November 12, 2026, at 10:05 AM UTC\r\n\r\nEnd time: Friday, November 13, 2026, at 4:10 PM UTC\r\n\r\nThis is the final update for the event.",
+        "upstreamId": null,
+        "updatedAt": "2026-11-14T03:51:29.3+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "consumer:CopilotConsumer",
+        "sourceId": "consumer",
+        "name": "Microsoft Copilot",
+        "subtitle": "Outlook, OneDrive & more",
+        "state": "clear",
+        "reportedStatus": "Operational",
+        "title": "",
+        "message": "",
+        "upstreamId": null,
+        "updatedAt": "2026-11-15T03:24:00.7787644+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "consumer:ConsumerList",
+        "sourceId": "consumer",
+        "name": "Microsoft Lists",
+        "subtitle": "Outlook, OneDrive & more",
+        "state": "clear",
+        "reportedStatus": "Operational",
+        "title": "",
+        "message": "",
+        "upstreamId": null,
+        "updatedAt": "2026-11-15T03:24:00.7787645+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "consumer:TeamsforLife",
+        "sourceId": "consumer",
+        "name": "Microsoft Teams Free",
+        "subtitle": "Outlook, OneDrive & more",
+        "state": "clear",
+        "reportedStatus": "Operational",
+        "title": "",
+        "message": "",
+        "upstreamId": null,
+        "updatedAt": "2026-11-15T03:24:00.7787645+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "consumer:microsofttodo",
+        "sourceId": "consumer",
+        "name": "Microsoft To-Do",
+        "subtitle": "Outlook, OneDrive & more",
+        "state": "clear",
+        "reportedStatus": "Operational",
+        "title": "",
+        "message": "",
+        "upstreamId": null,
+        "updatedAt": "2026-11-15T03:24:00.7787646+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "consumer:Whiteboard",
+        "sourceId": "consumer",
+        "name": "Microsoft Whiteboard",
+        "subtitle": "Outlook, OneDrive & more",
+        "state": "clear",
+        "reportedStatus": "Operational",
+        "title": "",
+        "message": "",
+        "upstreamId": null,
+        "updatedAt": "2026-11-15T03:24:00.7787646+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "consumer:OfficeOnlineConsumer",
+        "sourceId": "consumer",
+        "name": "Office for the web (Consumer)",
+        "subtitle": "Outlook, OneDrive & more",
+        "state": "clear",
+        "reportedStatus": "Operational",
+        "title": "",
+        "message": "",
+        "upstreamId": null,
+        "updatedAt": "2026-11-15T03:24:00.7787647+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "consumer:OneDriveConsumer",
+        "sourceId": "consumer",
+        "name": "OneDrive",
+        "subtitle": "Outlook, OneDrive & more",
+        "state": "clear",
+        "reportedStatus": "Operational",
+        "title": "",
+        "message": "",
+        "upstreamId": null,
+        "updatedAt": "2026-11-15T03:24:00.7787647+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "consumer:Outlook.com",
+        "sourceId": "consumer",
+        "name": "Outlook.com",
+        "subtitle": "Outlook, OneDrive & more",
+        "state": "clear",
+        "reportedStatus": "Operational",
+        "title": "",
+        "message": "",
+        "upstreamId": null,
+        "updatedAt": "2026-11-15T03:24:00.7787648+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "consumer:YourPhone",
+        "sourceId": "consumer",
+        "name": "Phone Link",
+        "subtitle": "Outlook, OneDrive & more",
+        "state": "clear",
+        "reportedStatus": "Operational",
+        "title": "",
+        "message": "",
+        "upstreamId": null,
+        "updatedAt": "2026-11-15T03:24:00.7787649+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "azure:azure",
+        "sourceId": "azure",
+        "name": "Azure",
+        "subtitle": "Cloud infrastructure",
+        "state": "clear",
+        "reportedStatus": "Available",
+        "title": "null",
+        "message": "No Azure issues detected at this time. For more details, please visit the link below.",
+        "upstreamId": null,
+        "updatedAt": "2026-11-15T03:24:00.6215867+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
+        "sourceUrl": "https://status.cloud.microsoft/"
+      },
+      {
+        "key": "power:ppac",
+        "sourceId": "power",
+        "name": "Power Platform",
+        "subtitle": "Power Apps & Dynamics 365",
+        "state": "clear",
+        "reportedStatus": "Available",
+        "title": "",
+        "message": "This site is updated when service issues are preventing tenant administrators from accessing the Power Platform admin center to view Service health status. Alternatively, customers can navigate to the M365 admin center to view the Service health status for the Power Platform services and Dynamics 365 applications.",
+        "upstreamId": "9b80edb9-2bb5-47fa-a1d3-8b53dbe65be1",
+        "updatedAt": "2026-11-15T03:24:00.798525+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       }
     ]
   },
   "latest": {
-    "checkedAt": "2026-11-15T02:25:54.435Z",
+    "checkedAt": "2026-11-15T03:24:15.237Z",
     "sources": [
       {
         "sourceId": "business",
-        "ok": false
+        "ok": true
       },
       {
         "sourceId": "consumer",
@@ -227,14 +227,17 @@
     ],
     "services": [
       {
-        "key": "business",
+        "key": "business:mac",
         "sourceId": "business",
         "name": "Microsoft 365",
         "subtitle": "Business & enterprise",
-        "state": "unknown",
-        "title": "Status source unavailable",
-        "message": "The latest public status could not be retrieved. This does not confirm an outage.",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "state": "clear",
+        "reportedStatus": "Available",
+        "title": "",
+        "message": "This site is updated when service issues are preventing tenant administrators from accessing Service health in the Microsoft 365 admin center. Alternatively, customers can reference https://www.twitter.com/MSFT365Status for additional insights into widespread, active incidents.",
+        "upstreamId": "c07eb1a6-9b09-40fc-aa33-91b8638fb931",
+        "updatedAt": "2026-11-15T03:24:00.7805591+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -248,7 +251,7 @@
         "message": "User impact: Users may have been unable to access or perform several actions in Microsoft 365 services.\r\n\r\nFinal status: We've confirmed that the services across the previously affected environments have fully recovered and the backlog of email messages has been processed, thus this issue is remediated.\r\n\r\nStart time: Thursday, November 12, 2026, at 10:05 AM UTC\r\n\r\nEnd time: Friday, November 13, 2026, at 4:10 PM UTC\r\n\r\nThis is the final update for the event.",
         "upstreamId": null,
         "updatedAt": "2026-11-14T03:51:29.3+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -261,8 +264,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401487+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.7787644+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -275,8 +278,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401488+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.7787645+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -289,8 +292,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401489+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.7787645+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -303,8 +306,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401489+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.7787646+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -317,8 +320,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.740149+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.7787646+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -331,8 +334,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401491+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.7787647+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -345,8 +348,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401491+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.7787647+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -359,8 +362,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401492+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.7787648+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -373,8 +376,8 @@
         "title": "",
         "message": "",
         "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.7401493+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.7787649+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -387,8 +390,8 @@
         "title": "null",
         "message": "No Azure issues detected at this time. For more details, please visit the link below.",
         "upstreamId": null,
-        "updatedAt": "2026-11-15T02:25:00.8606305+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.6215867+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       },
       {
@@ -401,8 +404,8 @@
         "title": "",
         "message": "This site is updated when service issues are preventing tenant administrators from accessing the Power Platform admin center to view Service health status. Alternatively, customers can navigate to the M365 admin center to view the Service health status for the Power Platform services and Dynamics 365 applications.",
         "upstreamId": "9b80edb9-2bb5-47fa-a1d3-8b53dbe65be1",
-        "updatedAt": "2026-11-15T02:25:00.4550226+00:00",
-        "checkedAt": "2026-11-15T02:25:54.435Z",
+        "updatedAt": "2026-11-15T03:24:00.798525+00:00",
+        "checkedAt": "2026-11-15T03:24:15.237Z",
         "sourceUrl": "https://status.cloud.microsoft/"
       }
     ]
@@ -2973,6 +2976,76 @@
           "key": "business",
           "sourceId": "business",
           "state": "unknown"
+        },
+        {
+          "key": "consumer:M365Consumer",
+          "sourceId": "consumer",
+          "state": "disruption"
+        },
+        {
+          "key": "consumer:CopilotConsumer",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:ConsumerList",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:TeamsforLife",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:microsofttodo",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:Whiteboard",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:OfficeOnlineConsumer",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:OneDriveConsumer",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:Outlook.com",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "consumer:YourPhone",
+          "sourceId": "consumer",
+          "state": "clear"
+        },
+        {
+          "key": "azure:azure",
+          "sourceId": "azure",
+          "state": "clear"
+        },
+        {
+          "key": "power:ppac",
+          "sourceId": "power",
+          "state": "clear"
+        }
+      ]
+    },
+    {
+      "checkedAt": "2026-11-15T03:24:15.237Z",
+      "services": [
+        {
+          "key": "business:mac",
+          "sourceId": "business",
+          "state": "clear"
         },
         {
           "key": "consumer:M365Consumer",
